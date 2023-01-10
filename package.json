@@ -1,0 +1,28 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khavatary/ESLint.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Khavatary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khavatary/ESLint/issues"
+  },
+  "homepage": "https://github.com/Khavatary/ESLint#readme",
+  "devDependencies": {
+    "eslint": "^8.31.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
